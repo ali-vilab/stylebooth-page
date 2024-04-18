@@ -1,0 +1,6 @@
+@article{han2024stylebooth,
+  title={StyleBooth: Image Style Editing with Multimodal Instruction},
+  author={Han, Zhen and Mao, Chaojie and Jiang, Zeyinzi and Pan, Yulin and Zhang, Jingfeng},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
